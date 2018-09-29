@@ -5,7 +5,7 @@ Projects Mr. Mercer is planning to complete. Feel free to ask and inquire about 
 
 Table of Contents
 1. Stock Car, <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/README.md#stock-car">Click Here</a>
-2. IoT Plant, <a href="">Click Here</a>
+2. IoT Plant, <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/README.md#iot-plant">Click Here</a>
 
 ---
 
