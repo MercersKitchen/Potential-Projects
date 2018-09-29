@@ -3,7 +3,7 @@ Projects Mr. Mercer is planning to complete. Feel free to ask and inquire about 
 
 **UNDER CONSTRUCTION**
 
-**Teaching Computer Science, Robotics, and Networking hands-on through entertainment, automation, and other applications in a re-vision "Cottage Industry"**
+**Using Project-based Learning to teach Computer Science, Robotics, and Networking hands-on through entertainment, automation, and other applications in a re-vision "Cottage Industry"**
 
 General Ideas and Concepts of Projects, <a href="https://github.com/MercersKitchen/Potential-Projects#general-ideas-and-concepts-of-projects">Click Here</a>
 
