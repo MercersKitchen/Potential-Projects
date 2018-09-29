@@ -3,18 +3,21 @@ Projects Mr. Mercer is planning to complete. Feel free to ask and inquire about 
 
 **UNDER CONSTRUCTION**
 
+General Ideas and Concepts of Projects, <a href="">Click Here</a>
 Table of Contents
-1. Stock Car, <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/README.md#stock-car">Click Here</a>
-2. IoT Plant, <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/README.md#iot-plant">Click Here</a>
+- Stock Car, <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/README.md#stock-car">Click Here</a>
+- IoT Plant, <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/README.md#iot-plant">Click Here</a>
 
 ---
+
+## General Ideas and Concepts of Projects
 
 ## Stock Car
 
 
 ---
 
-## IoT Plant
+## IoT Plant (Internet of Things)
 
 
 ---
