@@ -103,6 +103,8 @@ Sustainable Fisheries: example of maintaining a pond so birds, plants, and other
 
 # Ideas to Include
 
+Physical Computing: Internet of Things Devices (IoT Plant), Autonomous Race Car, Water Monitoring, Weather Monitoring (outdoor), Air Quality Monitoring (indoor)
+
 Outdoor garden and RPi Weather Station
 
 Movie Centre or Battery Recharge Station
