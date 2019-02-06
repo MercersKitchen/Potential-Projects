@@ -80,6 +80,28 @@ Idea Grow Globe: https://www.designboom.com/design/ikea-space10-the-growroom-fla
 
 Create Flatbox Shipping and Assembly, with IoT Monitoring
 
+Example Kit: https://shop.popsci.com/sales/arduino-automatic-smart-plant-watering-kit-2-0?utm_source=popsci.com&amp;utm_medium=referral&amp;utm_campaign=arduino-automatic-smart-plant-watering-kit-2-0&amp;utm_term=scsf-316699&amp;utm_content=a0x1P000004fo4l&amp;scsonar=1
+- https://www.popsci.com/arduino-automatic-smart-plant-watering-kit
+
+Kit Pieces
+- Specs
+  - Size of the box: 9.8" x 7.4" x 2.2"
+  - Length of water pipe: 16'
+  - Length of 4-Pin crowtail cable: 3.2'
+  - Weight: 960 grams
+- Compatibility
+  - Based on Arduino Lenardo
+  - Includes
+    - Crowtail smart pump shield v2.0
+    - Integrated Arduino Leonardo board
+    - 4 Crowtail soil moisture sensors
+    - 16.4' 4x6 mm water pipe
+    - DC 12 V adapter
+    - DC 12 V four-way valve
+    - Water pump
+    - 4 3.2' 4-pin crowtail cables
+    - Five-way pipe
+
 ## Living Wall
 
 Random Thoughts
