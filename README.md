@@ -61,6 +61,8 @@ Caution: lots of noise with sensors, need to be filtered out
 Need to: Get into how IR Works,
 Spec Sensors will document how sensors
 
+Handy Feature: bottom of the board has a camera mount added
+
 #### Air Quality Sensor Build
 
 What the Board looks like <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/Pocket%20Lab%20Air%20Quality/AirQuality_Board.jpg">without the case</a>.
