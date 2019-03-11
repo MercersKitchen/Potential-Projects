@@ -63,7 +63,7 @@ Spec Sensors will document how sensors
 
 #### Air Quality Sensor Build
 
-What is in the board
+What is in the board (<a href="">Showing Intake</a>)
 - Board reset switch: if board gets hung up
 - Particulate matter, fan in blue sensor: funneling air in and over CO2 and Ozone sensors (intake); exhaust over open board space
 - Ozone sensors
@@ -75,7 +75,6 @@ What is in the board
   - Bluetooth antenna
   - Battery
   - USB Mini to recharge
-
 
 #### Physics Sensor Build
 - Click Here (open in Other TAB) for <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/Pocket%20Lab%20Air%20Quality/PhysicsSensorTool.jpg">Image</a>
