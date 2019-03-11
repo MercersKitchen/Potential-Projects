@@ -9,8 +9,8 @@ General Ideas and Concepts of Projects, <a href="https://github.com/MercersKitch
 
 Table of Contents
 - Stock Car, <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/README.md#stock-car">Click Here</a>
-- Monitoring Rooms for Learning and Plants, <a href="">Click Here</a>
-  - Pocket Lab <a href="">Air Quality Sensor</a>
+- Monitoring Rooms for Learning and Plants, <a href="https://github.com/MercersKitchen/Potential-Projects#room-space-monitoring-for-healthy-learning">Click Here</a>
+  - Pocket Lab <a href="https://github.com/MercersKitchen/Potential-Projects#pocket-lab-air-quality-sensor">Air Quality Sensor</a>
 - IoT Plant, <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/README.md#iot-plant">Click Here</a>
 - Living Wall <a href="https://github.com/MercersKitchen/Potential-Projects#living-wall">Click Here</a>
 - Fish and Aquarium, <a href="https://github.com/MercersKitchen/Potential-Projects#stocking-fish-ponds">Click Here</a>
