@@ -53,6 +53,21 @@ General Idea: using a LAN Connected Device monitor CO2 Levels, etc.
 
 ### Pocket Lab Air Quality Sensor
 
+#### Air Quality Sensor Build
+
+#### Physics Sensor Build
+- Click Here (open in Other TAB) for <a href="">Image</a>
+- Shows Arm Processor
+- Bosch 280 on lower corner right (of arm chip)
+- Bluetooth antenna on right side
+
+#### Useful Links
+- https://pocketlab-web-staging.herokuapp.com/#/app
+- https://sensors.kcvs.ca/TWOSE/airQuality.html
+- https://sensors.kcvs.ca/TWOSE/section1page2b.html
+- http://airquality.alberta.ca/map
+- http://kcvs.ca/concrete/visualizations/chemistry
+
 
 ---
 
