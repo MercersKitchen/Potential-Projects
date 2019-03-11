@@ -53,10 +53,32 @@ General Idea: using a LAN Connected Device monitor CO2 Levels, etc.
 
 ### Pocket Lab Air Quality Sensor
 
+Note: both work on Cell Phone Battery Technology,
+will shut off in cold weather
+
+Caution: lots of noise with sensors, need to be filtered out
+
+Need to: Get into how IR Works,
+Spec Sensors will document how sensors
+
 #### Air Quality Sensor Build
 
+What is in the board
+- Board reset switch: if board gets hung up
+- Particulate matter, fan in blue sensor: funneling air in and over CO2 and Ozone sensors (intake); exhaust over open board space
+- Ozone sensors
+- CO2 sensor
+- Under board, Bosch BME 280
+  - Temperature, Humidity, Pressure, Light Intensity
+  - Arm processor
+  - Nordic Bluetooth chip
+  - Bluetooth antenna
+  - Battery
+  - USB Mini to recharge
+
+
 #### Physics Sensor Build
-- Click Here (open in Other TAB) for <a href="">Image</a>
+- Click Here (open in Other TAB) for <a href="https://github.com/MercersKitchen/Potential-Projects/blob/master/Pocket%20Lab%20Air%20Quality/PhysicsSensorTool.jpg">Image</a>
 - Shows Arm Processor
 - Bosch 280 on lower corner right (of arm chip)
 - Bluetooth antenna on right side
