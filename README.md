@@ -103,6 +103,8 @@ Inspiration: Sea-Can Urban Agriculture (Plug in Power and Water)
 
 Beginning Plants: Three plants: https://www.today.com/home/3-indoor-plants-actually-clean-air-t100828
 
+See APEGA and ASSET
+
 ### Thoughts to be Organized
 - Smallish type box for each classroom, whole school project
 - Water bladder to automatically feed plants
@@ -145,6 +147,12 @@ Kit Pieces
     - Water pump
     - 4 3.2' 4-pin crowtail cables
     - Five-way pipe
+
+### Links to Explore
+- https://www.digikey.com/en/maker/videos/shawn-hymel/arduino-project-to-product-part-9-run-for-a-year-on-batteries
+- https://www.raspberrypi.org/blog/saving-biologists-time-with-raspberry-pi/
+- https://www.instructables.com/id/How-to-Miniaturize-Arduino-Projects/
+
 
 ## Living Wall
 
